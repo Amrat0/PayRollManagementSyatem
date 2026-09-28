@@ -6,6 +6,8 @@ Payroll Management System is a **C# (Windows Forms)** application that automates
 It connects with **SQL Server** for data storage and supports **data import from Microsoft Excel** for efficient employee data management.  
 
 ---
+<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/06c2ce5c-829d-4a49-a7cf-3c5cc3143383" />
+---
 
 ## ⚙️ Key Features
 - 👨‍💼 **Employee Management:** Add, update, and search employee records.  
@@ -25,6 +27,7 @@ It connects with **SQL Server** for data storage and supports **data import from
 - **IDE:** Visual Studio  
 
 ---
+
 
 ## 🗄️ Database Setup
 1. Create a database in SQL Server named `PayrollDB`.  
